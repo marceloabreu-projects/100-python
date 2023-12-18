@@ -1,4 +1,4 @@
-# Brand Name Generator
+# Band Name Generator
 
 ## Simple String Manipulation Project
 
